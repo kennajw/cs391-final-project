@@ -19,6 +19,20 @@
             "rarity": "Rare",
             "description": "Though physically inseparable, their personalities couldn’t be more different. They bicker constantly, making daily tasks hard for them.",
             "img": "../public/Bloop_and_Blorp.png"
+        },
+
+        {
+            "name": "Dinolien",
+            "rarity": "Rare",
+            "description": "He looks like an ice cream, but unfortunately, you cannot eat him.",
+            "img": "../public/dinolien.png"
+        },
+
+        {
+            "name": "Ahhhh",
+            "rarity": "Rare",
+            "description": "He meows uncontrollably when he is in his pack. Meow? Meow. Meowwwwwwww. MEOWWWWWWW.",
+            "img": "../public/ahhhh.png"
         }
     ]
 }
