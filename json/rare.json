@@ -5,6 +5,20 @@
             "rarity": "Rare",
             "description": "Moooooo. Moo? Moo moo moo. Mooooooooooo. Mooo. Moo. Moooo.",
             "img": "../public/gay_cow.png"
+        },
+
+        {
+            "name": "Suddle",
+            "rarity": "Rare",
+            "description": "this sad puddle is…well sad. It lays on the ground all day hoping to one day dry up.",
+            "img": "../public/Suddle.png"
+        },
+
+        {
+            "name": "Bloop and Blorp",
+            "rarity": "Rare",
+            "description": "Though physically inseparable, their personalities couldn’t be more different. They bicker constantly, making daily tasks hard for them.",
+            "img": "../public/Bloop_and_Blorp.png"
         }
     ]
 }
