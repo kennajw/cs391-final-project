@@ -4,35 +4,35 @@
             "name": "Gay Cow",
             "rarity": "Rare",
             "description": "Moooooo. Moo? Moo moo moo. Mooooooooooo. Mooo. Moo. Moooo.",
-            "img": "../public/gay_cow.png"
+            "img": "/gay_cow.png"
         },
 
         {
             "name": "Suddle",
             "rarity": "Rare",
             "description": "this sad puddle is…well sad. It lays on the ground all day hoping to one day dry up.",
-            "img": "../public/Suddle.png"
+            "img": "/Suddle.png"
         },
 
         {
             "name": "Bloop and Blorp",
             "rarity": "Rare",
             "description": "Though physically inseparable, their personalities couldn’t be more different. They bicker constantly, making daily tasks hard for them.",
-            "img": "../public/Bloop_and_Blorp.png"
+            "img": "/Bloop_and_Blorp.png"
         },
 
         {
             "name": "Dinolien",
             "rarity": "Rare",
             "description": "He looks like an ice cream, but unfortunately, you cannot eat him.",
-            "img": "../public/dinolien.png"
+            "img": "/dinolien.png"
         },
 
         {
             "name": "Ahhhh",
             "rarity": "Rare",
             "description": "He meows uncontrollably when he is in his pack. Meow? Meow. Meowwwwwwww. MEOWWWWWWW.",
-            "img": "../public/ahhhh.png"
+            "img": "/ahhhh.png"
         }
     ]
 }
