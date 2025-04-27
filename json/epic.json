@@ -1,5 +1,16 @@
 {
     "epicPulls": [
-        
+        {
+            "name": "Merotter",
+            "rarity": "Epic",
+            "description": "One can find Merotters elegantly swimming through the waters of Venus. Under the midnight sky, their bodies glow in different colors.",
+            "img": "../public/merotter.png"
+        },
+        {
+            "name": "Mamfoxy",
+            "rarity": "Epic",
+            "description": "Another name for Mamfoxy is a ‘Walking Rainbow’. Elegant shades of rainbow flow through their translucent skin.",
+            "img": "../public/mamfoxy.png"
+        }
     ]
 }
