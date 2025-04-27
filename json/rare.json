@@ -1,5 +1,10 @@
 {
     "rarePulls": [
-        
+        {
+            "name": "Gay Cow",
+            "rarity": "Rare",
+            "description": "Moooooo. Moo? Moo moo moo. Mooooooooooo. Mooo. Moo. Moooo.",
+            "img": "../public/gay_cow.png"
+        }
     ]
 }
