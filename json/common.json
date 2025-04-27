@@ -3,22 +3,22 @@
         {
             "name": "Hart",
             "rarity": "Common",
-            "description": " Hart was dating Janga. Now she is dating Trig because Trig rich, Trig happy. Hart&apos;s heart of hearts Trig&apos;s heart of hearts.",
-            "img": "../public/Hart.png"
+            "description": " Hart was dating Janga. Now she is dating Trig because Trig rich, Trig happy. Hart's heart of hearts Trig's heart of hearts.",
+            "img": "/Hart.png"
         },
 
         {
             "name": "Janga",
             "rarity": "Common",
-            "description": "Janga lives in a constant state of despair. He&apos;s sad because his best friend Trig stole his idea for a block stacking board game. Trig invented Jenga.",
-            "img": "../public/Janga.png"
+            "description": "Janga lives in a constant state of despair. He's sad because his best friend Trig stole his idea for a block stacking board game. Trig invented Jenga.",
+            "img": "/Janga.png"
         },
 
         {
             "name": "Trig",
             "rarity": "Common",
             "description": "Trig invented Jenga. Trig sold Jenga. Trig rich. Trig happy.",
-            "img": "../public/Trig.png"
+            "img": "/Trig.png"
         }
     ]
 }

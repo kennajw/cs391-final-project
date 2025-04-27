@@ -4,35 +4,35 @@
             "name": "Merotter",
             "rarity": "Epic",
             "description": "One can find Merotters elegantly swimming through the waters of Venus. Under the midnight sky, their bodies glow in different colors.",
-            "img": "../public/merotter.png"
+            "img": "/merotter.png"
         },
 
         {
             "name": "Mamfoxy",
             "rarity": "Epic",
-            "description": "Another name for Mamfoxy is a &apos;Walking Rainbow&apos;. Elegant shades of rainbow flow through their translucent skin.",
-            "img": "../public/mamfoxy.png"
+            "description": "Another name for Mamfoxy is a 'Walking Rainbow'. Elegant shades of rainbow flow through their translucent skin.",
+            "img": "/mamfoxy.png"
         },
 
         {
             "name": "Drexul",
             "rarity": "Epic",
-            "description": "Drexul&apos;s are nocturnal creatures. Bearing poisonous stingers for limbs and excellent night vision, they are efficient hunters.",
-            "img": "../public/Drexul.png"
+            "description": "Drexul's are nocturnal creatures. Bearing poisonous stingers for limbs and excellent night vision, they are efficient hunters.",
+            "img": "/Drexul.png"
         },
 
         {
             "name": "Scythrel",
             "rarity": "Epic",
-            "description": "Scythrel&apos;s can be found in misty environments. Despite only having two limbs, this creature moves silently and at explosive speed.",
-            "img": "../public/Scythrel.png"
+            "description": "Scythrel's can be found in misty environments. Despite only having two limbs, this creature moves silently and at explosive speed.",
+            "img": "/Scythrel.png"
         },
 
         {
             "name": "Xylogrith",
             "rarity": "Epic",
             "description": "This winged horror looms above the skies in search of prey. Their red wings hum with an eerie, bone-rattling vibration that will send shivers to any prey.",
-            "img": "../public/Xylogrith.png"
+            "img": "/Xylogrith.png"
         }
     ]
 }
