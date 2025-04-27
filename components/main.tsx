@@ -14,7 +14,7 @@ export default function Main() {
                 </ul>
              </div>
              <div className="p-6">
-                <Link href="/gatcha" className="p-4 rounded" style={{backgroundColor: "#3E7CB1", color: "#8AF3FF"}}>Play</Link>
+                <Link href="/gatcha" className="p-4 rounded" style={{backgroundColor: "#3E7CB1", color: "#FAF9FF"}}>Play</Link>
             </div>
         </div>
     );
