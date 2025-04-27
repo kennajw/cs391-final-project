@@ -1,25 +1,14 @@
+// Daniel Davydov's work
 import commonData from "@/json/common.json";
 import rareData from "@/json/rare.json";
 import epicData from "@/json/epic.json";
 import legendaryData from "@/json/legendary.json";
-
-interface Character {
-    name: string,
-    rarity: string,
-    description: string,
-    img: string,
-};
+import { Character, Category } from "@/types";
 
 const commonPulls: Character[] = commonData.commonPulls;
 const rarePulls: Character[] = rareData.rarePulls;
 const epicPulls: Character[] = epicData.epicPulls;
 const legendaryPulls: Character[] = legendaryData.legendaryPulls;
-
-interface Category {
-    key: string,
-    weight: number,
-    pulls: Character[],
-};
 
 const categories: Category[] = [
     {key: "common", weight: 0.65, pulls: commonPulls},
