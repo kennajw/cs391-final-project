@@ -19,6 +19,27 @@
             "rarity": "Common",
             "description": "Trig invented Jenga. Trig sold Jenga. Trig rich. Trig happy.",
             "img": "/Trig.png"
+        },
+
+        {
+            "name": "Cent",
+            "rarity": "Common",
+            "description": "Cent’s head might be bent, or it might be dent. Who bent or dent Cent’s head? It might be Hamer or Haned!",
+            "img": "/Cent.png"
+        },
+
+        {
+            "name": "Hamer",
+            "rarity": "Common",
+            "description": "Hamer couldn't've bent Cent’s head! He only knows how to dent!",
+            "img": "/Hamer.png"
+        },
+
+        {
+            "name": "Haned",
+            "rarity": "Common",
+            "description": "Haned doesn’t know how to dent! But he might’ve bent Cent’s head…",
+            "img": "/Haned.png"
         }
     ]
 }
