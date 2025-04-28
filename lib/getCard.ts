@@ -3,12 +3,12 @@ import commonData from "@/json/common.json";
 import rareData from "@/json/rare.json";
 import epicData from "@/json/epic.json";
 import legendaryData from "@/json/legendary.json";
-import { Character, Category } from "@/types";
+import { GatchaProps, Category } from "@/types";
 
-const commonPulls: Character[] = commonData.commonPulls;
-const rarePulls: Character[] = rareData.rarePulls;
-const epicPulls: Character[] = epicData.epicPulls;
-const legendaryPulls: Character[] = legendaryData.legendaryPulls;
+const commonPulls: GatchaProps[] = commonData.commonPulls;
+const rarePulls: GatchaProps[] = rareData.rarePulls;
+const epicPulls: GatchaProps[] = epicData.epicPulls;
+const legendaryPulls: GatchaProps[] = legendaryData.legendaryPulls;
 
 const categories: Category[] = [
     {key: "common", weight: 0.65, pulls: commonPulls},
@@ -31,13 +31,13 @@ function chooseCategory(): Category {
     return categories[0];
 };
 
-function pickCharacter(pulls: Character[]): Character {
+function pickCharacter(pulls: GatchaProps[]): GatchaProps {
     const index = Math.floor(Math.random() * pulls.length);
     return pulls[index];
 };
 
-export default function getCard(): Character {
+export default function getCard(): GatchaProps {
     const category: Category = chooseCategory();
-    const card: Character = pickCharacter(category.pulls);
+    const card: GatchaProps = pickCharacter(category.pulls);
     return card;
 };
