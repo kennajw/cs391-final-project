@@ -7,15 +7,8 @@ export type GatchaProps = {
     img: string;
 };
 
-export type Character = {
-    name: string,
-    rarity: string,
-    description: string,
-    img: string,
-};
-
 export type Category = {
     key: string,
     weight: number,
-    pulls: Character[],
+    pulls: GatchaProps[],
 };
