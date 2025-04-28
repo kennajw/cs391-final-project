@@ -13,8 +13,8 @@ const legendaryPulls: GatchaProps[] = legendaryData.legendaryPulls;
 const categories: Category[] = [
     {key: "common", weight: 0.65, pulls: commonPulls},
     {key: "rare", weight: 0.25, pulls: rarePulls},
-    {key: "epic", weight: 0.0925, pulls: epicPulls},
-    {key: "legendary", weight: 0.0075, pulls: legendaryPulls},
+    {key: "epic", weight: 0.09, pulls: epicPulls},
+    {key: "legendary", weight: 0.01, pulls: legendaryPulls},
 ];
 
 function chooseCategory(): Category {
