@@ -4,21 +4,21 @@
             "name": "Alien Puppy",
             "rarity": "Legendary",
             "description": "Looks and acts much like a puppy from Earth, but you don't want to get too close...",
-            "img": "/alien_puppy.PNG"
+            "img": "/alien_puppy.png"
         },
 
         {
             "name": "Betsy",
             "rarity": "Legendary",
             "description": "A human astronaut. Although not an alien to us, she looks pretty odd to those who inhabit the comsos.",
-            "img": "/Betsy.PNG"
+            "img": "/Betsy.png"
         },
 
         {
             "name": "Nova",
             "rarity": "Legendary",
             "description": "Nova is a real-life alien princess! The third eye allows her to see into the future and she sees that you're going to pass CS391!",
-            "img": "/nova.PNG"
+            "img": "/nova_alien.png"
         }
     ]
 }
