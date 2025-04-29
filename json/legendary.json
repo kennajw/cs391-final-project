@@ -20,5 +20,7 @@
             "description": "Nova is a real-life alien princess! The third eye allows her to see into the future and she sees that you're going to pass CS391!",
             "img": "/nova_alien.png"
         }
-    ]
+    ],
+
+    "_comment": "json file and aliens made by Kenna Wylie"
 }
