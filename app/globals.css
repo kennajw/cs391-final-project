@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: Moonhouse;
-  src: url(../public/Moonhouse-yE5M.ttf)
+  font-family: SpaceNova;
+  src: url(../public/SpaceNova-6Rpd1.otf)
 }
 
 * {
-  font-family: "Moonhouse";
+  font-family: "SpaceNova";
 }
