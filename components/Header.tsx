@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header className="flex justify-center items-center h-20 bg-[#22223B] border border-dashed">
       <h2 className="text-4xl text-[#FAF9FF] font-semibold p-4 text-center">
-        <Link href="/">CS391 Final Project</Link>
+        <Link href="/">4L13N5</Link>
       </h2>
     </header>
   );
