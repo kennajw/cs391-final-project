@@ -21,7 +21,7 @@ export default function Gatcha() {
 
     return (
         <div className="flex flex-col items-center space-y-4 bg-[#2B2B53] text-[#FAF9FF] w-screen min-h-[calc(100vh-80px)]">
-        <h1 className="text-2xl font-bold mt-5">GET A RANDOM CARD</h1>
+        <h1 className="text-2s font-bold mt-2">GET A RANDOM CARD</h1>
 
         {card && <Card gatchaPull={card} />}
 
